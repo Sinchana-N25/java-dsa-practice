@@ -1,3 +1,4 @@
+package Searching;
 import java.util.*;
 public class binary_search {
     public static void main(String[] args) {
@@ -34,5 +35,6 @@ public class binary_search {
         } else {
             System.out.println("Number not in list!");
         }
+        sc.close();
     }
 }

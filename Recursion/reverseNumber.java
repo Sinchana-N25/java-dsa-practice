@@ -1,3 +1,4 @@
+package Recursion;
 public class reverseNumber {
     static int reverse(int n, int rev) {
         if (n == 0) return rev;

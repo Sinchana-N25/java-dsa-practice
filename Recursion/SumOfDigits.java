@@ -1,3 +1,4 @@
+package Recursion;
 /*
  * Problem: Sum of digits of a number (e.g. 123 → 6)
  * Approach: Base case when number is 0. Else, last digit + sum of remaining.

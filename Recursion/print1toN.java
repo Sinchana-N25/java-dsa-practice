@@ -1,3 +1,4 @@
+package Recursion;
 /*
  * Problem: Print numbers from 1 to N using recursion
  * Approach: First print smaller numbers (1...n-1), then n

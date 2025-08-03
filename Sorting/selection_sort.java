@@ -1,3 +1,4 @@
+package Sorting;
 import java.util.*;
 public class selection_sort{
        public static void main(String[] args) {
@@ -29,5 +30,6 @@ public class selection_sort{
         for (int i = 0; i < 10; i++) {
             System.out.print(arr[i] + " ");
         }
+        sc.close();
     }
 }

@@ -14,7 +14,7 @@ public class HashMapExample {                                          // This c
         // Get a value from the map
         int bobAge = ages.get("Bob");
         System.out.println("Bob's age: " + bobAge);
-
+        
         // Check if a key exists
         if (ages.containsKey("David")) {
             System.out.println("David's age is known");

@@ -1,4 +1,4 @@
-# ☕ java_practice
+# ☕ java-dsa-practice
 
 This folder contains my Java implementations and problem-solving practice for both DSA and Competitive Programming.  
 My current prep is based on the following resources:
